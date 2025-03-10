@@ -32,5 +32,5 @@ class Config(object):
     # Thumbnail image ka URL
     THUMB_URL = "https://te.legra.ph/file/11366447de3410810a383-d29ae883f7add39f2a.jpg" #Replace by with your Thumb URL
     # API host ka URL
-    HOST = "https://dragoapi.vercel.app/"
+    HOST = "https://error-uq7u.onrender.com/open-data"
 
