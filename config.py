@@ -32,5 +32,5 @@ class Config(object):
     # Thumbnail image ka URL
     THUMB_URL = "https://te.legra.ph/file/11366447de3410810a383-d29ae883f7add39f2a.jpg" #Replace by with your Thumb URL
     # API host ka URL
-    HOST = "https://drm-api-five.vercel.app"
+    HOST = "https://madxapi-d0cbf6ac738c.herokuapp.com/"
 
